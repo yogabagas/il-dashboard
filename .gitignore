@@ -4,6 +4,10 @@ logs/
 
 summary/
 
-*.properties
-
 *.md
+
+*.py
+
+*.log
+
+secret/

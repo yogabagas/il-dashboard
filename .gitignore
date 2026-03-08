@@ -3,3 +3,7 @@ vendor/
 logs/
 
 summary/
+
+*.properties
+
+*.md
